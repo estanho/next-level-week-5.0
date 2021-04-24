@@ -25,7 +25,7 @@
 ## Projeto
 O projeto tem como objetivo a criação de um chat de suporte onde os clientes podem ser atendidos. A aplicação funciona atravês de **WEBSOCKET**  e tem as mensagens sendo enviadas e recebidas de forma instantânea entre cliente e administrador. 
 
-O desenvolvimento ocorreu durante a Next Level Week #4 da [Rocketseat](https://rocketseat.com.br/). :rocket:
+O desenvolvimento ocorreu durante a Next Level Week #5 da [Rocketseat](https://rocketseat.com.br/). :rocket:
 <br>
 
 ---
